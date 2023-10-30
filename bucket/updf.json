@@ -1,0 +1,28 @@
+{
+    "version": "1.6.21.0",
+    "description": "updf.",
+    "homepage": "https://www.dida365.com/",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.dida365.com/about/upgrade"
+    },
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.dida365.com/down/getApp/download?type=win64#/dl.7z",
+            "hash": "1e81f7027c6af407e8339b723f89943c84955ca8ee99e85aa9ecd9b3b9f3bd66"
+        },
+        "32bit": {
+            "url": "https://www.dida365.com/down/getApp/download?type=win#/dl.7z",
+            "hash": "1d1ebbb33f2c82757bb69b9eb030ff6d5ab048be4ab987ed386da089f22b2223"
+        }
+    },
+    "bin": "TickTick.exe",
+    "innosetup": true,
+    "shortcuts": [
+        [
+            "TickTick.exe",
+            "Tick Tick"
+        ]
+    ]
+}
