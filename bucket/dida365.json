@@ -1,5 +1,5 @@
 {
-    "version": "4.5.8.0",
+    "version": "5.0.0.0",
     "description": "Dida365.",
     "homepage": "https://www.dida365.com/",
     "license": {
@@ -10,11 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.dida365.com/down/getApp/download?type=win64#/dl.7z",
-            "hash": "1e81f7027c6af407e8339b723f89943c84955ca8ee99e85aa9ecd9b3b9f3bd66"
-        },
-        "32bit": {
-            "url": "https://www.dida365.com/down/getApp/download?type=win#/dl.7z",
-            "hash": "1d1ebbb33f2c82757bb69b9eb030ff6d5ab048be4ab987ed386da089f22b2223"
+            "hash": "bdb16613385346f49ed97e5684a99ecaea4e4a7735afe7db1b2196424db1ce23"
         }
     },
     "bin": "TickTick.exe",
